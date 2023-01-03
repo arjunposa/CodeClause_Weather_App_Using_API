@@ -88,7 +88,7 @@ body {
 
 
 /* media response */
-@media (max-width:320px) {
+@media (max-width:300px) {
   .container {
     width: 90%;
   } 
